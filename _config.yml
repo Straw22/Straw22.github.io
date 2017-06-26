@@ -11,7 +11,7 @@ baseurl: ""                             # for example, '/blog' if your blog host
 
 
 # SNS settings
-RSS: false
+RSS: true
 weibo_username:     1
 zhihu_username:     straw12
 github_username:    Straw22
@@ -73,13 +73,13 @@ ga_domain: huangxuan.me
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "爱自己，爱生活 。<br>爱编程，爱学习。"
+sidebar-about-description: "爱自己，爱生活。<br>爱编程，爱学习。"
 sidebar-avatar: /straw.github.io/img/my_photo.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
 # Featured Tags
-featured-tags: false                     # whether or not using Feature-Tags
+featured-tags: true                     # whether or not using Feature-Tags
 featured-condition-size: 1              # A tag will be featured if the size of it is more than this condition value
 
 
