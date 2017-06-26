@@ -5,17 +5,17 @@ header-img: img/home-bg.jpg
 #email: huxpro@gmail.com
 description: "Java开发，好奇心大世界"
 keyword: " 博客, 个人网站, 互联网, "
-url: "https://huangxuan.me"              # your host, for absolute URL
+url: "https://straw22.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 
 
 # SNS settings
 RSS: false
-weibo_username:     huxpro
+weibo_username:     1
 zhihu_username:     straw12
 github_username:    Straw22
-twitter_username:   huxpro
+twitter_username:   1
 #facebook_username:  huxpro
 # linkedin_username:  firstname-lastname-idxxxx
 
