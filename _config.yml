@@ -51,10 +51,10 @@ kramdown:
 disqus_username: lb
 
 # Netease setttings
-netease_comment: false
+netease_comment: true
 
 # Duoshuo settings
-duoshuo_username: huxblog
+duoshuo_username: lb
 # Share component is depend on Comment so we can NOT use share only.
 duoshuo_share: true                     # set to false if you want to use Comment without Sharing
 
@@ -79,7 +79,7 @@ sidebar-avatar: /straw.github.io/img/my_photo.jpg      # use absolute URL, seein
 
 
 # Featured Tags
-featured-tags: true                     # whether or not using Feature-Tags
+featured-tags: false                     # whether or not using Feature-Tags
 featured-condition-size: 1              # A tag will be featured if the size of it is more than this condition value
 
 
