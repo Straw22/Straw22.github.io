@@ -1,8 +1,8 @@
 ---
 layout: page
-description: "Java开发，稻草"
+description: "Java开发，稻33333333333333333333333333333333333333333333333333333333草"
 ---
-
+<!-- 遍历文章的内容-->
 {% for post in paginator.posts %}
 <div class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">
@@ -25,6 +25,7 @@ description: "Java开发，稻草"
 <hr>
 {% endfor %}
 
+<!-- 文章的分页-->
 <!-- Pager -->
 {% if paginator.total_pages > 1 %}
 <ul class="pager">
