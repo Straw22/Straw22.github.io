@@ -51,14 +51,15 @@ kramdown:
 disqus_username: lb
 
 # Netease setttings
-netease_comment: false
+netease_comment: true
 
 # Duoshuo settings
 duoshuo_username: lb
 # Share component is depend on Comment so we can NOT use share only.
 duoshuo_share: true                     # set to false if you want to use Comment without Sharing
 
-
+#encoding
+encoding: UTF-8
 
 
 # Analytics settings
