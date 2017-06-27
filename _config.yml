@@ -1,7 +1,7 @@
 # Site settings
 title: Straw Blog
 SEOTitle: Straw Blog
-header-img: /straw.github.io/img/index-bg.jpg
+header-img: /img/index-bg.jpg
 #email: huxpro@gmail.com
 description: "Java开发，好奇心大世界"
 keyword: " 博客, 个人网站, 互联网, "
@@ -51,7 +51,7 @@ kramdown:
 disqus_username: lb
 
 # Netease setttings
-netease_comment: true
+netease_comment: false
 
 # Duoshuo settings
 duoshuo_username: lb
