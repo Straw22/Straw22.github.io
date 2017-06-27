@@ -1,7 +1,7 @@
 # Site settings
 title: Straw Blog
 SEOTitle: Straw Blog
-header-img: img/index-bg.jpg
+header-img: /straw.github.io/img/index-bg.jpg
 #email: huxpro@gmail.com
 description: "Java开发，好奇心大世界"
 keyword: " 博客, 个人网站, 互联网, "
@@ -11,7 +11,7 @@ baseurl: ""                             # for example, '/blog' if your blog host
 
 
 # SNS settings
-RSS: true
+RSS: false
 weibo_username:     1
 zhihu_username:     straw12
 github_username:    Straw22
@@ -96,16 +96,16 @@ friends: [
     #     title: "Su",
     #     href: "http://su.gallery/"
     # },{
-        title: "1",
+        title: "122",
         href: "http://mida.re/"
     },{
-        title: "2",
+        title: "2445",
         href: "http://qianduan.guru/"
     },{
         title: "3",
         href: "http://lingyu.wang/"
     },{
-        title: 4",
+        title: "4--",
         href: "http://hmqk1995.github.io"
     },{
         title: "5",
@@ -119,11 +119,5 @@ friends: [
     },{
         title: "8",
         href: "http://dhong.co"
-    },{
-        title: "9",
-        href: "http://ingf.github.io/"
-    },{
-        title: "10",
-        href: "http://wepiaofei.github.io/blog/"
     }
 ]
