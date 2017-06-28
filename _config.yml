@@ -67,8 +67,8 @@ encoding: UTF-8
 # ba_track_id: [your track id]
 
 # Google Analytics
-#ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
-#ga_domain: https://straw22.github.io/straw.github.io
+ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
+ga_domain: https://straw22.github.io/straw.github.io
 
 
 
