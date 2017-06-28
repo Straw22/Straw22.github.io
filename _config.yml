@@ -48,7 +48,7 @@ kramdown:
 
 
 # Disqus settings
-disqus_username: lb
+disqus_username: true
 
 # Netease setttings
 netease_comment: false 
