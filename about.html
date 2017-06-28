@@ -1,13 +1,12 @@
 ---
 layout: page
-title: "about"
 description: "Hey, this is Straw."
 header-img: "img/about-bg.jpg"
 ---
 
 <!-- Language Selector -->
 <select class="sel-lang" onchange= "onLanChange(this.options[this.options.selectedIndex].value)">
-    <option value="0" selected> Chinese </option>
+    <option value="0" selected> 中文 </option>
     <option value="1"> English </option>
 </select>
 
@@ -70,7 +69,7 @@ header-img: "img/about-bg.jpg"
 <div class="comment">
     <!-- This id is used for indexing my loss comments forcedly -->
     <div class="ds-thread"
-    {% if site.duoshuo_username == "huxblog" %}
+    {% if site.duoshuo_username == "lb" %}
         data-thread-id="1187623191091085319"
     {% else %}
     <!-- U can just use this key generated to index comments at page about -->

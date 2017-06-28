@@ -48,7 +48,7 @@ kramdown:
 
 
 # Disqus settings
-disqus_username: true
+disqus_username: lb
 
 # Netease setttings
 netease_comment: false 
@@ -56,7 +56,7 @@ netease_comment: false
 # Duoshuo settings
 duoshuo_username: lb
 # Share component is depend on Comment so we can NOT use share only.
-duoshuo_share: true                     # set to false if you want to use Comment without Sharing
+duoshuo_share:                      # set to false if you want to use Comment without Sharing
 
 #encoding
 encoding: UTF-8
@@ -68,7 +68,7 @@ encoding: UTF-8
 
 # Google Analytics
 ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
-ga_domain: huangxuan.me
+ga_domain: https://straw22.github.io/straw.github.io
 
 
 
