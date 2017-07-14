@@ -93,7 +93,7 @@ service-worker: true
 
 # Friends
 friends: [
-    {
+    
         {
         title: "独立博客",
         href: "https://straw22.github.io/straw.github.io/"
