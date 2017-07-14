@@ -1,5 +1,5 @@
 # Site settings
-title: Straw Blog
+title: 我的博客-Straw Blog
 SEOTitle: Straw Blog
 header-img: img/index-bg.jpg
 #email: huxpro@gmail.com
@@ -94,31 +94,8 @@ service-worker: true
 # Friends
 friends: [
     {
-    #     title: "Su",
-    #     href: "http://su.gallery/"
-    # },{
-        title: "122",
-        href: "http://mida.re/"
-    },{
-        title: "2445",
-        href: "http://qianduan.guru/"
-    },{
-        title: "3",
-        href: "http://lingyu.wang/"
-    },{
-        title: "4--",
-        href: "http://hmqk1995.github.io"
-    },{
-        title: "5",
-        href: "http://ebnbin.com/"
-    },{
-        title: "6",
-        href: "http://blog.smdcn.net"
-    },{
-        title: "7",
-        href: "http://xieminis.me/"
-    },{
-        title: "8",
-        href: "http://dhong.co"
-    }
+        {
+        title: "独立博客",
+        href: "https://straw22.github.io/straw.github.io/"
+        }
 ]
