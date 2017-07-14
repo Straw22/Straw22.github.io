@@ -1,1 +1,1 @@
-The theme from Hux.
+The theme from Huxpro.
